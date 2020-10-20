@@ -11,5 +11,9 @@
 ------
 
 - [计算机基础知识-面试](https://github.com/wolverinn/Waking-Up)
+- [Awesome-Interview](https://github.com/Awesome-Interview/Awesome-Interview)
+
+- [CS-Notes(Java)](https://github.com/CyC2018/CS-Notes)
+
+- [interview(C/C++)](https://github.com/huihut/interview)
 - [Linux网络编程](https://github.com/834810071/NetworkProgramming)
-- [CS-Notes](https://github.com/CyC2018/CS-Notes)
