@@ -20,5 +20,6 @@
 ------
 
 - [C++后台开发学习路线](https://www.cnblogs.com/qinguoyi/p/12355516.html)
+- [零基础C++后台开发学习路线](https://blog.csdn.net/qq_23905237/article/details/104902660)
 - [interview(C/C++)](https://github.com/huihut/interview)
 - [Linux网络编程](https://github.com/834810071/NetworkProgramming)
